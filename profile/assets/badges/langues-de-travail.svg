@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="338" height="28" viewBox="0 0 338 28" role="img" aria-labelledby="titre">
+<title id="titre">Langues de travail : français et anglais</title>
+<style>
+@font-face{font-family:'JetBrains Mono';font-style:normal;font-weight:400;font-display:block;src:url(data:font/woff2;base64,d09GMgABAAAAAATsABAAAAAACeAAAASSAAI2BAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbIBwqBmA/U1RBVF4AbBEICodQhgYBNgIkAyILIgAEIAWFAAcgDAcb2gejooxNkij+MkFHQ1w9bYZqVBjWtHaJ0GrModoM9MRNfbF3fIQfOPkCOZ6n34917vsfleSSSUQShIJ364ROIpGS6W7a6aZxQ13/Ic/6l2SYrJEVSyYjp2LaUaWFeZLPkIq1v+6/RLSjvb5JMOKCUALW8t8fNv8LyyKhtaW0tk9cTpuDw7mFQvzV2vQXjYULZE2gLqGA9qbtYRRoWBx4Cuo291QsM+DiCQTtgCKiUwSthgyDrFbW66FEDf8BgKDVjPFQrfa6HbHJMAzQxVpcly1kg045KWYA67vR2QN+tACFFpN+ZeLaBvAMy03sz78067+UJSBQZsoLjCkU0aygH4Yp6HFHZxIB9h8bRLqLRgMmQlFS55TsAeQlKomv3ENslncDBBRUDFt2pxfYAHr1gCnGUKrUqNfI6GY+D5ASy3HMN+T/cslFF5xz1ikKiEkn8h90R+t22hjQCzIBcgKoASVnRyZ6Xgolpb3JLngXfHSXol7dSyeV9OpKuAgHbsT1NsK4N9tvS5o0IMTqY1l4BzcR3AO3z1uQxk2rslkEW5jLEaszGcAXZvFVaUAXZIjVOYRYkE4ThWILeuDFjSILpmjG20BX6AIrDJoBGmU9uhG8tkJuRkrgIKEr4AUEZBSiAFx7HbvMuUQB7tzpQMlAlqq34FYcxUYogyiekYRXGHrERlMkpMOQAZlPZDB3pkOBhhakhVt4C8g3dBKWPZmBu3OjbASQnX/++cxzz22cy68XHaiupyTv8j0NQ4bkd/nf4zuSyn4Hu/b08Uc6ZfWbErpBIymuuOQS7eYJnVQtLXSk29C0iy9wUFa1llYoaEpdp6Yj4CiutmoFToUJYHe+ql0kZctGlUk9SZcqT5OXrq2hR1HLn+KFVvuZug/jW8ZjdQy4fpIx/reSvBw4JGwZpiy8hflznJbua6t4K7NsvRkkWFfUMmA14010QEE12jx6lwlwXkf7Y68+ZhfYfaBYocihqa33Ub13aPyrRSnx8hXSskq5oqxCugI41e0ciaWrVVKrKdNUqiSTp1LnPMNq+zUHahRCo4tLuRN+ME+sVSrkWgl/Coe67x1e3a8pVKuUWFp5kF95i/nB3FoJk9oDUbaXtZdSXqFSKiqU2cM8/gj8OfvcMfuvqz3NYnEP89VZf9nOPb8DCMpy49+WKld35S+pqh/w6cnBXbvDXzz696fMpGLGPqBRAeGfAUgBHcrDmwBiskSyvxWfmV0rFzOfBCu7ahL5u0DQbaPp3PBzXKWg3ZkqdQvuAcIYck5YdHovrKz4IqwtZaSwwUAahY0W0inotJxNSqE9rypqz550SYmvT+uG57sjImqmOJ8OnZJIfNwVStJjbJultn9kEi2O5ROWQGoQERZBahYX4dfGK4lESUnqFBGXQBrvHU2Koi5yHBwdfPTeLcVjKq+IEA5WfomR3viEq6GMtlQ7JYgVx5fm4+FRtEpTeK8xxUPhSS2y9Bu1Pdzm06og6SWi5v5g/gTvL0KjksA2lWEJ7qBPPLoDR5NK9UzafuMcNZJYQT5eTPdRrDAM+B8+EFPqdfJXrwUA) format('woff2')}
+.b{font-family:'JetBrains Mono', ui-monospace, monospace;font-weight:400;font-size:11px;letter-spacing:0.14em}
+</style>
+<rect id="fond" width="165" height="28" fill="#131a2e"/>
+<rect x="165" width="173" height="28" fill="#0f1526"/>
+<rect x=".5" y=".5" width="337" height="27" fill="none" stroke="#2b3656"/>
+<rect id="filet" x="165" y="1" width="1" height="26" fill="#2b3656"/>
+<text id="etiquette" class="b" x="10" y="18.02" fill="#94a3b8">LANGUES DE TRAVAIL</text>
+<text id="valeur" class="b" x="175" y="18.02" fill="#f1f5f9">FRANÇAIS ET ANGLAIS</text>
+</svg>

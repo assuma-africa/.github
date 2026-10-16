@@ -2,7 +2,7 @@
 
 <p align="center">
 <img src="./assets/badges/approche.svg" alt="Approche : vendor-neutre"> <img src="./assets/badges/concu-pour.svg" alt="Conçu pour : coupures de courant et réseau lent"><br>
-<img src="./assets/badges/livraison.svg" alt="Livraison : build + adopt"> <img src="./assets/badges/region.svg" alt="Région : Afrique centrale"> <img src="./assets/badges/langue.svg" alt="Langue : français">
+<img src="./assets/badges/livraison.svg" alt="Livraison : build + adopt"> <img src="./assets/badges/region.svg" alt="Région : Afrique centrale"> <img src="./assets/badges/langues-de-travail.svg" alt="Langues de travail : français et anglais">
 </p>
 
 Assuma déploie l'intelligence artificielle d'entreprise en Afrique centrale, et la fait adopter par les équipes.
@@ -31,6 +31,8 @@ Assuma déploie l'intelligence artificielle d'entreprise en Afrique centrale, et
 | On livre le système | Nous déployons le système sur les bonnes technologies, jusqu'à ce qu'il fonctionne en production. Il est documenté pour que vos équipes puissent le maintenir. |
 
 ## Deux listes, deux questions
+
+<p align="center"><img src="./assets/figures/listes.svg" width="100%" alt="Deux listes, deux questions. Ce que nous vous aidons à choisir : Google, Anthropic, OpenAI, AWS, Microsoft, Databricks, Palantir. Ce avec quoi nous construisons : LangGraph, LangChain, MCP, Claude Code, ADK."></p>
 
 Nous gardons deux listes séparées, parce qu'elles répondent à deux questions différentes : quelle plateforme choisir, et avec quoi nous construisons.
 
