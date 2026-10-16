@@ -32,13 +32,13 @@ Assuma déploie l'intelligence artificielle d'entreprise en Afrique centrale, et
 
 ## Deux listes, deux questions
 
-<p align="center"><img src="./assets/figures/listes.svg" width="100%" alt="Deux listes, deux questions. Ce que nous vous aidons à choisir : Google, Anthropic, OpenAI, AWS, Microsoft, Databricks, Palantir. Ce avec quoi nous construisons : LangGraph, LangChain, MCP, Claude Code, ADK."></p>
+<p align="center"><img src="./assets/figures/listes.svg" width="100%" alt="Deux listes, deux questions. Ce que nous vous aidons à choisir : Google, Anthropic, OpenAI, AWS, Microsoft, Databricks, Palantir. Ce avec quoi nous construisons : LangGraph, LangChain, Model Context Protocol®, Claude Code, ADK."></p>
 
 Nous gardons deux listes séparées, parce qu'elles répondent à deux questions différentes : quelle plateforme choisir, et avec quoi nous construisons.
 
 → **Ce que nous vous aidons à choisir** : Google, Anthropic, OpenAI, AWS, Microsoft, Databricks, Palantir. Ce sont des plateformes. Ce choix vous engage pour des années, donc il se discute avant de signer, pas après.
 
-→ **Ce avec quoi nous construisons** : LangGraph, LangChain, MCP, Claude Code, ADK. Ce sont nos outils. Ils ne vous engagent pas : c'est à nous de les maîtriser.
+→ **Ce avec quoi nous construisons** : LangGraph, LangChain, Model Context Protocol®, Claude Code, ADK. Ce sont nos outils. Ils ne vous engagent pas : c'est à nous de les maîtriser.
 
 Vous aider à choisir dans la première liste est un service. Maîtriser la seconde est notre métier. Confondre les deux, c'est vendre un fournisseur en croyant vendre du conseil.
 
