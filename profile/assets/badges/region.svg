@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="216" height="28" viewBox="0 0 216 28" role="img" aria-labelledby="titre">
+<title id="titre">Région : Afrique centrale</title>
+<style>
+@font-face{font-family:'JetBrains Mono';font-style:normal;font-weight:400;font-display:block;src:url(data:font/woff2;base64,d09GMgABAAAAAATAABAAAAAACfQAAARkAAI2BAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbIBwqBmA/U1RBVF4AgQIRCAqHLIVqATYCJANECyQABCAFhQAHIAwHG/YHIxG2e1BaTfEXBzaRqQveR4QFJW2erwjGhoJBvRgufxjqlA2RZTjxu6Bs70zjmR08n7b0fUm7sycZkKowQnsX4hKLBtBcxV3gzF24pi7jnXe/tgOquJ7Y9w3TYfrvn+1UXscrnqFpJEKjFI/iCQ+A/gfIf9/aCVLb/7hXNS9bP8bmFssFaaxFY9K00JoUzEUoQHu0pV7Pe6FeBWvxTqAutTu5vLzAV+8AARIAAIUgJCEIYCmgCJkybc4SAgxAGAYAAliqqEGNGi1pz8Yj+8gZC+w3apVcwwMVVSuA2Y3lso5BMgEURMilNWtnTQJaKaFD/x+IU/2XpAEQAFWl+qAED0EIUEAGGqhAHd++44gAO49s3CPJCD551KEAJUaugawDaQfd41KNIMjhFAAEAAXoLUzSQAz7XppFChqfEiYymenMZA7zWcRSOsIwejFTqfNYyJLHmlYtETZr9M5bb4xGyGWk8HdqPHwECZUMQCoAZUAaiAPZDyR8IzGk8xgF8qZAgkhJgq1I8NPSknKSkiNBmnHr3Vq7zC5Z7ZY97Mpaj5eI0a4u0Re7u12ssxN7sctG46gLnS7WLe5CPO68RBLQKFUC1DzXLtYakWRxnhXEGhd0JrHqXPuAUZyx6+5XQjOolFkW6xaNOuLGZZnRW3ZonxlLpct5/XKRv2SlXWWVPopiiNUeIrwx2iVStUtVfV389HK3ZFBT78nG3tXlNJ5flsYI8aeam//kpXl5cs0fjcH5ZuWs0AWVM+wSCOfkihlhkuUhRUGB7WZh/fPkITvJK2bn5MBoD3ffVQ1WxXZjMPcjPPoxButbsAChUGwdPx/gFZJtqDfwYvU84De53IXBpMiVJyuuI2agbHcMIF16MmOLy3dBfXC2Wb4KIp+ZVXg5tXcLsJxNFwYoFrJdLAspPVeXl88B+89sJxtxZwEyKFXzAg9Vc9SPWkR+3hzkkU7qCJzdflJtnQzPtnVQVMXP8oxPg2l3wshXmeG6eoiQus3Z1lRB9dKyFrXpKdSqXQbhysXu8cUKqM9s94gpkym0vpWhqVY63d5gc4N4VEOwYhtdMVQVGvBJGUQAsAVUoF8igBpmNv9rVM0lj/kXaP0L6P/0dLfx+L4Pvz8yrFcr9BfwUQAI/BbyXvkY4kDxAITckNpjWFWBQbACt8WyHoSdcBi3ChbAGstwdk8AcQRI5XrAc3+jp2kUkMAdjZgI0AjAEApoZCiS6GFoxvCDYWiQMoZHnsxj+NTJDnoSw+SGgECCvG8xyA5J7sXFn5eClS03yO2J+ojFGiiSN1UCRcMwmG7dZQpAn0hc/qJet8tdNOBz20xSoEgIBqxun7+oCj0Q8EDF+sZGCxn3AUFDg+R2Nm5VtUe3ee/VRwtgE5cMOkSfnFPe3EwNCyn0DvUItbNORTo0arq4iYxqKdq8QZtWfrCAX+pDiCfkb9gi5Gh44uWWxv62njHTN+7oDIgOIuFwV6IrFiA0yQGS57+WcOHEXAYAAA==) format('woff2')}
+.b{font-family:'JetBrains Mono', ui-monospace, monospace;font-weight:400;font-size:11px;letter-spacing:0.14em}
+</style>
+<rect id="fond" width="67" height="28" fill="#131a2e"/>
+<rect x="67" width="149" height="28" fill="#0f1526"/>
+<rect x=".5" y=".5" width="215" height="27" fill="none" stroke="#2b3656"/>
+<rect id="filet" x="67" y="1" width="1" height="26" fill="#2b3656"/>
+<text id="etiquette" class="b" x="10" y="18.02" fill="#94a3b8">RÉGION</text>
+<text id="valeur" class="b" x="77" y="18.02" fill="#f1f5f9">AFRIQUE CENTRALE</text>
+</svg>

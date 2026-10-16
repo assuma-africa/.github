@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="395" height="28" viewBox="0 0 395 28" role="img" aria-labelledby="titre">
+<title id="titre">Conçu pour : coupures de courant et réseau lent</title>
+<style>
+@font-face{font-family:'JetBrains Mono';font-style:normal;font-weight:400;font-display:block;src:url(data:font/woff2;base64,d09GMgABAAAAAAUYABAAAAAAClQAAAS9AAI2BAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbIBwqBmA/U1RBVF4AchEICogchlYBNgIkA0QLJAAEIAWFAAcgDAcbUgijooxM8iD+6oA3jBq/MDiGTZgICyYxRSsgRWJBuAPBcv+iv7Zc1mCQeAjWvr2Z3S9+lg7VpIkkCUJxjRY6ngiR6pagqkQaSXx/0LN/wVdyoNOmdaqk8slpD+L0jREeJnASi28M+7/+L/SHnabQ8q2thQs1EqbWVkUsikfV0ohxEV0OTWahQGKIJiHhIROS2Ysm7x8/fcifnvgWsu+Gs+MzCv4IBLqAFEJfCLRNlAVZZXLUwlYlVBuAQNtsJdAuo0Ud5KdGIKUj2sFlrkcOqJHHci2ANdXlsRno0AEkLUm3sHb1CgAPTPWg+Ps/gPuSYiEQkLPzLabaJISmxBgMM6FHe/umEGDfIX4IiRbqxpVBkVHGGWIzQDxCAfbnHRA63EPHhAYixQIwqlfDbQZGxMCkqVhGDh517nlyfAMYrae7VL9c9bV6QHXdNVepKjUE9KVwKo/06ioGYBhgOjAGYimI8+g+WijlMCQ+aSn+dYhma+ro1C7RrY+M9CNbg9aCZpwYTnaQbUQ9UdtC1p8OJR0J5PC7QiEEWw+Hyd3BILTXQ8SuAORakNwdRsi1QKAOIXdfifWHRAMpOPfgprXnRIPxk5va7PnlI+rhdqyXjbCJSOhCgUL1nSDufW2nZuOSONF+0p37sc4B64V1EdPkBhYkUEwaiLVhuLaJaJaGCT155EATyCOtF05kdqRu24DxJXXBIGQQSCS08VFpZBOJc0N9XWCxgayFo2++mb/xpoW6+yEfw0Ze9nljuC4jg6/5j+I6heJ21saJ28hpOK6DFrWxzRodxzAcq7FruDr4/rRpmnWi9g4aXjyUmZLORw7303ntCsehyZq0PFYg3XpnmvGtbpp7JHJen6+X+8gEs8/t52xWLp8t78MPXc5W27+WeEswezVMat5hq4Zmcx/HUnALuoJTDZHzYSwZyy88BeVcu5Bem0y3tRsswB47CwQkh/UwGk5j05RBRqmtAzweWv0z+MXSDo6VduoNhoMVywcZk0WtMZmZg+1P+CvLiyVtWpujn40/oR3YLZmWbt8h15uUjN4o3wGUpYeSNUUms2n1WpNaVlHF3vBl2ZI8g1ZGXN8hYDsnB6AxqU7FKHUyupJin/izLUnuYZtK1tQlhI2d96v/Vt/fCeU9g2N8XHOcSmlUqxijKj68b2AUIvVl/bv5kd1XyNk2oW5oERR2gmwW1wRyWRk8d+30loHq29ai+ALvnjpFLv62fymUZyP2FXUJgt8QaAIdSM9uA4hkHwbbm6mdLvCN6FZ8F3rS3YxNGG1BZHifAM8Fhh3UdEV9mcsVEl1nFaJs4Q6fwjDRDWHqey0sLPdTWFoYecKa8XAJ6+ZHn6BvWRxSCrrxuKac1hsDin9+tSFEfLbSqDHzJvTr1WdKDpqgCOSoBaK77TYfmMJ1lOb1GzEp7TRqxOhVPCaMGtDNb0oO1rQpfUZNdIYlUwemjAHylSiUXv2dnsE0nyp+o4ZRCxUFW5duvXRjgWrdVHvaEN4EWpomJMR0y2GmblA5vHTSKEeG6nUfG/Z3qclZukJLFr6u0CT/AwXGTH3CqgVCQ6oueHkvipuJQ4PuR9zEagpvSD+/am6/8EZgQNWNBkLKvhFVK08CAAA=) format('woff2')}
+.b{font-family:'JetBrains Mono', ui-monospace, monospace;font-weight:400;font-size:11px;letter-spacing:0.14em}
+</style>
+<rect id="fond" width="100" height="28" fill="#131a2e"/>
+<rect x="100" width="295" height="28" fill="#0f1526"/>
+<rect x=".5" y=".5" width="394" height="27" fill="none" stroke="#2b3656"/>
+<rect id="filet" x="100" y="1" width="1" height="26" fill="#2b3656"/>
+<text id="etiquette" class="b" x="10" y="18.02" fill="#94a3b8">CONÇU POUR</text>
+<text id="valeur" class="b" x="110" y="18.02" fill="#f1f5f9">COUPURES DE COURANT ET RÉSEAU LENT</text>
+</svg>

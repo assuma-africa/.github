@@ -1,18 +1,27 @@
 <p align="center"><img src="./assets/banner.svg" width="100%" alt="Assuma. L'IA d'entreprise, livrée. Même quand le courant saute."></p>
 
+<p align="center">
+<img src="./assets/badges/approche.svg" alt="Approche : vendor-neutre"> <img src="./assets/badges/concu-pour.svg" alt="Conçu pour : coupures de courant et réseau lent"><br>
+<img src="./assets/badges/livraison.svg" alt="Livraison : build + adopt"> <img src="./assets/badges/region.svg" alt="Région : Afrique centrale"> <img src="./assets/badges/langue.svg" alt="Langue : français">
+</p>
+
 Assuma déploie l'intelligence artificielle d'entreprise en Afrique centrale, et la fait adopter par les équipes.
 
 ## Quatre idées guident notre travail
 
+<p align="center"><img src="./assets/figures/idees.svg" width="100%" alt="Quatre idées guident notre travail : vendor-neutre, le socle avant les agents d'IA, resilience-by-design, build + adopt."></p>
+
 → **Vendor-neutre.** Nous ne sommes liés à aucun fournisseur : nous vous aidons à choisir le bon, selon votre besoin.
 
-→ **Le socle avant les agents.** Pas d'agent d'IA utile sans données unifiées et sans gouvernance (qui accède à quoi, qui a fait quoi). Les agents viennent ensuite, et ils agissent dans vos outils.
+→ **Le socle avant les agents d'IA.** Pas d'agent d'IA utile sans données unifiées et sans gouvernance (qui accède à quoi, qui a fait quoi). Les agents viennent ensuite, et ils agissent dans vos outils.
 
 → **Resilience-by-design.** Nous concevons nos systèmes pour vos conditions réelles : coupures de courant et réseau lent. Nous utilisons WhatsApp, SMS ou USSD comme interfaces : vos utilisateurs les ont déjà.
 
 → **Build + adopt.** Nous déployons ET nous faisons adopter. Un projet pilote qui fonctionne mais que personne n'utilise ne vaut rien.
 
 ## Notre méthode a quatre étapes
+
+<p align="center"><img src="./assets/figures/methode.svg" width="100%" alt="Notre méthode a quatre étapes : on montre nos preuves, on forme vos équipes, on fixe vos priorités, on livre le système."></p>
 
 | Étape | Ce que nous faisons |
 |---|---|
@@ -33,4 +42,6 @@ Vous aider à choisir dans la première liste est un service. Maîtriser la seco
 
 ## Les secteurs auxquels nous nous adressons
 
-Banques, assurances, télécoms, distribution, secteur public et parapublic.
+Banques, assurances, télécoms, distribution, secteur public et parapublic, industrie et agro-industrie, entrepôts de matières premières agricoles.
+
+<p align="center"><img src="./assets/signature.svg" alt="Assuma"></p>
